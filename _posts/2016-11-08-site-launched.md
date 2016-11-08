@@ -8,17 +8,19 @@ Contact data and downloadable CV - my portfolio, my blog presence and a link to 
 <h1>Blogging with GitHub and Jekyll </h1>
 
 <h2>Wordpress</h2>
- is a powerful tool  differentiation between wordpress.org and .com
-o wordpress.com
- pros: easy to use, straightforward interface, documentation  cons: freemium, you have to pay for decent designs, many restrictions, even when paid not very flexible
-o wordpress.org
- pros: extreme customizability, lots to learn, if you learned it you can add it to your portfolio, large community, detailed documentation  cons: learning curve, time, finding a host -> usually paid 
-o wordpress in general
- pros: established name, common platform, comment system, gravatar cons: it is literally everywhere.
+is a powerful tool, differentiation between wordpress.org and .com
+wordpress.com
+pros: easy to use, straightforward interface, documentation
+cons: freemium, you have to pay for decent designs, many restrictions, even when paid not very flexible
+wordpress.org
+pros: extreme customizability, lots to learn, if you learned it you can add it to your portfolio, large community, detailed documentation cons: learning curve, time, finding a host -> usually paid 
+wordpress in general
+pros: established name, common platform, comment system, gravatar cons: it is literally everywhere.
 
 <h2>What I want to achieve:<\h2>
- Uni: Make tutors happy for Interior + Environmental Design, follow change by design
-brief  Portfolio: Slowly build up portfolio for web presence after graduation
+uni: Make tutors happy for Interior + Environmental Design, follow change by design
+brief
+Portfolio: Slowly build up portfolio for web presence after graduation
 
 <h2>Wait but what is there beyond academic and professional success? </h2>
 Learn, Have fun, Make it look nice, -because I am a designer and artist-, Document progress –where am I and where am I going?-, honest voice
