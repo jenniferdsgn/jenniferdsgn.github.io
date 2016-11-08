@@ -1,2 +1,3 @@
 name: Jennifer Meier, Interior and Environmental Design
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
