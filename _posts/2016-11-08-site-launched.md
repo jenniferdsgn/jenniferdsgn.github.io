@@ -3,8 +3,9 @@ layout: post
 title: "Jennifer Meier, launching my site"
 date: 2016-11-08
 ---
-Today marks the day of the launch of my new siote, which once it is finished will incooperate information about me - contact data and downloadable CV - my portfolio, my blog presence and a link to my social media accounts.
-<h1>Blogging with GitHub&Jekyll</h1>
+Today marks the day of the launch of my new site, which once it is finished will incooperate information about me.
+Contact data and downloadable CV - my portfolio, my blog presence and a link to my social media accounts.
+<h1>Blogging with GitHub and Jekyll </h1>
 
 <h2>Wordpress</h2>
  is a powerful tool  differentiation between wordpress.org and .com
